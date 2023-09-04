@@ -1,6 +1,6 @@
 # tiktoken-server
 
-Docker container to expose the  OpenAI BPE tokenizer as a REST service. Uses the tiktoken project  https://github.com/openai/tiktoken
+Docker container to expose the  OpenAI BPE tokenizer as a REST service. Uses the tiktoken project  https://github.com/openai/tiktoken . Allows usage from any endpoint
 
 ## Building
     docker build -t tiktoken-server .
